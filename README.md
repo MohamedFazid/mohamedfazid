@@ -67,7 +67,7 @@ Terminal-based data analytics application with candlestick visualization and lin
 ## 📫 Contact
 - 📍 Singapore  
 - 📧 mohamedfazid01@gmail.com  
-- 🔗 GitHub: https://github.com/yourusername  
+
 
 ---
 
